@@ -1,0 +1,64 @@
+#header-row {
+	margin-top: 15%;
+}
+
+#sidebar-nav {
+	margin-top: 15px;
+}
+
+a {
+	color: #222;
+}
+
+#navback {
+  margin-top: 3%;
+}
+
+.project-thumb {
+	width: 120px;
+}
+
+.project-header {
+	text-transform: uppercase;
+	font-size: 1.4rem;
+	letter-spacing: .2rem;
+	font-weight: 600;
+}
+
+.semester {
+    font-weight: bold;
+}
+
+h3 {
+	margin-top: 5%;
+}
+
+p{
+ position: relative;
+ top: 155px; 
+ right:-320px;
+ padding-left:
+}
+
+.icon {
+    width: 28px;
+    height: 28px;
+}
+
+#preview{
+    position:absolute;
+    border:1px solid #ccc;
+    background:#333;
+    padding:5px;
+    display:none;
+    color:#fff;
+    
+}
+
+
+.row{
+    position:relative;
+    top:180px;
+    left:335px; 
+}
+
