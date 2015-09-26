@@ -62,3 +62,14 @@ p{
     left:335px; 
 }
 
+.kvsheader{
+    font-size:21px;
+}
+
+.kvslist {
+ position: relative;
+ top: 155px; 
+ right:-320px;
+    
+}
+
